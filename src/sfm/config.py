@@ -1,0 +1,2 @@
+# Feature Matching
+FEATURE_MATCH_THRESHOLD = 0.6
